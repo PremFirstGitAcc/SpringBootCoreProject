@@ -10,7 +10,7 @@ public class Test {
 	}
 
 	public void m1() {
-		System.out.println("hi from m1()--1234");
+		System.out.println("hi from m1()");
 	}
 	public static void main(String[] args) {
 		Test.getTest();
