@@ -9,6 +9,9 @@ public class Test {
 		System.out.println(new Utility().getDate());
 	}
 
+	public void m1() {
+		System.out.println("hi from m1()--1234");
+	}
 	public static void main(String[] args) {
 		Test.getTest();
 	}
