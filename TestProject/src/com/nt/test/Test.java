@@ -4,6 +4,7 @@ import com.nt.beans.Utility;
 
 public class Test {
 	public static void getTest() {
+		System.out.println("Test.getTest()---hi");
 		System.out.println("From Test Class ---line 1");
 		System.out.println(new Utility().getDate());
 	}
