@@ -8,6 +8,7 @@ public class Utility {
 		return new Date();
 	}
 	public static void main(String[] args) {
+		System.out.println(new Date().getDate());
 
 	}
 
